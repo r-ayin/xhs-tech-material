@@ -1,0 +1,3 @@
+Python 每日一题（73）
+
+PY0073｜Python remove() 与 index()：这段代码会输出什么？#Python# #Python编程# #Python学习# #编程# #编程入门# #Python入门# #Python自学# #计算机专业# #大学生# #大一#

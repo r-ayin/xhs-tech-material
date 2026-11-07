@@ -1,0 +1,17 @@
+面试官：为什么大模型普遍用RMSNorm？
+
+📌 最近更新了【Qwen3】、【LLaMA-4】等新开源的大模型代码，在标准化模块上使用的都是RMSNorm。开山祖师论文Attention is all you need里的LayerNorm为什么被弃用了呢？
+	
+📌 这期带你解析RMSNorm为什么比LayerNorm好？面试官拷问BatchNorm还历历在目，转眼LayerNorm也上了也是被抛弃的对象了[doge]。
+	
+📒 答案和详细解析查看➡️图。
+	
+📌 问题：为什么大模型普遍用RMSNorm？
+🌟 （1）从参数量来看RMSNorm的（可学习）参数量仅为LayerNorm的一半；
+🌟（2）从计算量上来看RMSNorm更高效；
+🌟（3）数值稳定性/梯度消失上看，RMSNorm梯度稳定并且缓解深层网络梯度消失问题；
+🌟（4）模型表现上，RMSNorm的表现和LayerNorm相当；
+	
+🎯相关内容已经总结到下方学习笔记中，持续更新！在平台提供大模型一手、原创、深度解析！
+	
+#大模型# #RMSNorm# #LayerNorm# #互联网大厂实习# #字节跳动# #转码# #Qwen3# #面经# #深度学习与神经网络# #科技互联网# #标准化#

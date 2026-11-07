@@ -1,0 +1,13 @@
+Agentic RL 开源项目推荐（2026.07版）
+
+📌 本期带来2026年上半年的 Agentic RL 开源项目推荐（简历项目可以基于此实现）筛选了几个方向：
+🌟 奖励建模改进（Reward Modeling）
+🌟 上下文压缩与管理（Context Compression）
+🌟 算法改进（RL Optimization）
+🌟 探索与数据供给（RL Training Data）
+	
+📒 详细解析内容➡️滑图查看！
+	
+🎯相关内容已经总结到下方学习笔记中，持续更新！在平台提供大模型一手、原创、深度解析！带给大家更多好玩实践项目。
+	
+#agenticrl# #agentrl# #rlagent# #agent强化学习# #强化学习Agent# #大模型强化学习# #deepresearch# #大模型# #算法工程师# #古希腊掌管代码的神#

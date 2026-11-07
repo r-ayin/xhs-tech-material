@@ -1,0 +1,16 @@
+架构演变解析｜从Transformer到现代大模型
+
+📌 今天解析经典论文《Attention is All You Need》发布以来大模型架构的变化。
+	
+📌 相比于2017年的transformer结构，2025年的旗舰大模型如MiniMax-01、LLaMA-4、Qwen-3 & Qwen-3-MoE、MiniMax-M1、Kimi K2变化包括但不限于：
+🌟Vocab Embedding
+🌟Positional Embedding
+🌟Efficient Attention
+🌟FFN（MoE）
+🌟Normalization
+	
+📒 详细解析内容 ➡️ 滑图查看！
+	
+🎯 相关内容已经总结到下方学习笔记中，之后会持续更新各领域发展以及代码demo！在平台提供大模型一手、原创、深度解析！
+	
+#attention机制# #大模型入门# #大模型# #多模态大模型学习# #互联网大厂实习# #字节跳动# #算法工程师# #自学大模型# #面经# #转码#
